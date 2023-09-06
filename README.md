@@ -14,6 +14,3 @@
 ![127 0 0 1_5173_Contact](https://avatars.githubusercontent.com/u/126774546?v=4)
 
 
-<h2> You can view the site </h2>
-
-- [Here](https://prismatic-zuccutto-7e817c.netlify.app/)

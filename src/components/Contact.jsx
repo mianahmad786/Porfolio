@@ -15,7 +15,7 @@ function Contact() {
           <h1 className="font-bold text-4xl text-center">Contact.</h1>
 
           <form
-            action="https://getform.io/f/8b1e055d-3ca6-480d-a03a-146e51d26c50"
+            action="https://getform.io/f/242b8934-afce-43d9-ab9d-341ef73b94b5"
             method="POST"
           >
             <div className="flex gap-6 justify-center flex-wrap">
