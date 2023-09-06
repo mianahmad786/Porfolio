@@ -11,7 +11,7 @@
 <h2>Portfolio Preview</h2>
 
 
-![127 0 0 1_5173_Contact](https://user-images.githubusercontent.com/113782984/232225389-0a5744b9-d6c0-455c-b66d-30cfe7ebbdd1.png)
+![127 0 0 1_5173_Contact](https://avatars.githubusercontent.com/u/126774546?v=4)
 
 
 <h2> You can view the site </h2>
